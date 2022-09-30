@@ -1,0 +1,62 @@
+nav {
+    background-color: #ed3237;
+    padding: 1.5em 10em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    max-width: 10em;
+}
+
+
+#tienda {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2em 5em;
+}
+
+.producto_imagen {
+    max-width: 20em;
+}
+
+.producto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.carro_invisible {
+    display: none;
+}
+
+.carro_visible {
+    position: absolute;
+    right: 0em;
+    top: 0em;
+    background-color: #ebebeb;
+    min-width: 30vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1em 0em;
+    gap: 1em;
+    overflow: auto;
+    z-index: 1000;
+}
+
+.carro_producto {
+    display:flex;
+    gap: 2em;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 1em;
+    padding: 1em;
+    width: 80%;
+}
+
+

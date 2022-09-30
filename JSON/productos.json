@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "nombre": "Zapatillas Nike Court Vision Lo Be",
+        "precio": 2790,
+        "imagen": "./img/producto1.jpg",
+        "cantidad": 0
+    },
+    {
+        "id": 2,
+        "nombre": "Zapatillas Nike Defyallday",
+        "precio": 5990,
+        "imagen": "./img/producto2.jpg",
+        "cantidad": 0
+    },
+    {
+        "id": 3,
+        "nombre": "Zapatillas Nike Court Royale 2",
+        "precio": 2790,
+        "imagen": "./img/producto3.jpg",
+        "cantidad": 0
+    },
+    {
+        "id": 4,
+        "nombre": "Zapatillas adidas Ozelle",
+        "precio": 2790,
+        "imagen": "./img/producto4.jpg",
+        "cantidad": 0
+    },
+    {
+        "id": 5,
+        "nombre": "Zapatillas Nike Air Max Excee",
+        "precio": 2190,
+        "imagen": "./img/producto5.jpg",
+        "cantidad": 0
+    },
+    {
+        "id": 6,
+        "nombre": "Zapatillas Nike Air Max Alpha Trainer 4",
+        "precio": 4990,
+        "imagen": "./img/producto6.jpg",
+        "cantidad": 0
+    },
+    {
+        "id": 7,
+        "nombre": "Zapatillas adidas Coreracer",
+        "precio": 6590,
+        "imagen": "./img/producto7.jpg",
+        "cantidad": 0
+    },
+    {
+        "id": 8,
+        "nombre": "Zapatillas Nike Air Max Intrlk",
+        "precio": 2390,
+        "imagen": "./img/producto8.jpg",
+        "cantidad": 0
+    },
+    {
+        "id": 9,
+        "nombre": "Zapatillas Nike Zoom Winflo 8",
+        "precio": 3590,
+        "imagen": "./img/producto9.jpg",
+        "cantidad": 0
+    }
+]
