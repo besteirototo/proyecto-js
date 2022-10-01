@@ -18,16 +18,6 @@ nav {
     padding: 2em 5em;
 }
 
-.producto_imagen {
-    max-width: 20em;
-}
-
-.producto {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
 .carro_invisible {
     display: none;
 }
