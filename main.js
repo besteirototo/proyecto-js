@@ -76,7 +76,7 @@ const compra = (producto) => {
                     <div class="carro_info">
                         <h3 class="fs-6 m-0">${nombre}</h3>
                         <p class="m-0">$${precio}</p>
-                        <p class="m-0">${cantidad}</p>
+                        <p class="m-0">Cantidad: ${cantidad}</p>
                         <button id=${id} class="eliminar eliminar${id} btn btn-danger btn-sm">Eliminar</button>
                     </div>
                 </div>
